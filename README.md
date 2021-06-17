@@ -16,7 +16,7 @@ Examples:
 
 *    long password or big file = long encrypting and decoding
 
-*    decrypt file create file with same name as original file (it can overwrite original file if you run this command in the same directory)
+*    decrypt file creates decoded file with same name as the original file (it can overwrite original file if you run this command in the same directory)
 
 Example how encryption works:
 
